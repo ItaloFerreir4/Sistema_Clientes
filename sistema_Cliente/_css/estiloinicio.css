@@ -1,0 +1,83 @@
+
+body{
+    position: relative;
+    margin: 0;
+    height: 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+}
+
+#header{
+    position: sticky;
+    top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bgPadrao{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px 0px rgb(0 0 0 / 40%);
+}
+
+td{
+    min-width: 150px;
+}
+
+.blocoTab{
+    width: 100%;
+    overflow-x: scroll;
+}
+
+.blocoTab::-webkit-scrollbar{
+    background-color: transparent;
+    color: black;
+    height: 2px;
+}
+
+.blocoTab::-webkit-scrollbar-thumb{
+    background-color: black;
+    height: 2px;
+    width: 2px;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+}
+
+#formCadastro{
+    width: 100%;
+    margin: 0;
+}
+
+#formCadastro>div{
+    margin-top: 5px;
+}
+
+input{
+    width: 100%;
+}
+
+textarea{
+    width: 100%;
+    min-height: 100px;
+}
+
+.alert{
+    font-size: 15px;
+}
+
+.filtro{
+    width: 20%;
+}
+
+.btn{
+    font-size: 15px!important;
+}
+
+.obs{
+    width: 300px!important;
+}
