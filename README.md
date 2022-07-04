@@ -10,20 +10,4 @@
 # 6- Acessar uma instancia
 # 7- Copiar o codigo que está no arquivo SQL_Sistema.sql para a instancia do MySQL
 # 8- Executar o codigo
-# 9- 
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+# 9- Acessar no navegador http://localhost/sistema_cliente/index.html
